@@ -1,0 +1,2 @@
+# microchip
+code,Microchip Studio
